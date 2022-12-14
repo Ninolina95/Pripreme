@@ -1,0 +1,19 @@
+{
+  "name": "test_vezba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ninolina95/Pripreme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ninolina95/Pripreme/issues"
+  },
+  "homepage": "https://github.com/Ninolina95/Pripreme#readme"
+}
